@@ -7,8 +7,8 @@ cars = [
    
 
 
-# Generates a random car name
+# Generates a random super car's name
 random_car = random.choice(cars)
 
-# Print the random car name
+# Prints the random super car's name
 print("Random Car:", random_car)
