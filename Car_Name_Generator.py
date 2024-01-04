@@ -9,5 +9,5 @@ cars = [
 # Generates a random super car's name
 random_car = random.choice(cars)
 
-# Prints the random super car's name
+# Prints the Random super car's name
 print("Random Car:", random_car)
